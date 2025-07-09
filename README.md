@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 Estudante de Sistemas deInformação na UEG;<br>- 🍕 Interessado na área de DevOps;<br>- 🎇 Os meus erros me fortalecem.</p>
+<p align="left">- 👨‍💻 Estudante de Sistemas de Informação na UEG;<br>- 🍕 Interessado na área de DevOps;<br>- 🎇 Os meus erros me fortalecem.</p>
 
 ###
 
