@@ -1,12 +1,12 @@
 <h1 align="center">Olá, eu sou o Pedro Chagas 👋</h1>
-<p align="center"><b>Desenvolvedor Backend & DevOps</b> · Anápolis, Goiás</p>
+<p align="center"><b>Desenvolvedor Backend & DevOps</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrorodrigueschagas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:perodrigues132006@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
-Sou desenvolvedor júnior na **Wooba**, onde mantenho as integrações do Travellink com companhias aéreas e GDS (GOL, Azul, LATAM, Amadeus, Sabre, Travelport, Lufthansa...) em **C#/.NET**, com Kibana para pegar falhas antes de virarem chamado. Estudo **Sistemas de Informação na UEG**.
+Sou **desenvolvedor júnior**. Estudo **Sistemas de Informação na UEG**.
 
 Gosto de problema de infraestrutura: o sistema que cai todo dia, o dado que se perde no caminho, a máquina que custa caro demais.
 
@@ -26,6 +26,11 @@ Gosto de problema de infraestrutura: o sistema que cai todo dia, o dado que se p
 | [sistema-eventos-ueg](https://github.com/pedrorchagas/sistema-eventos-ueg) | Gestão de eventos acadêmicos: API REST, site e cliente desktop sobre o mesmo domínio, com frequência por QR Code | Java 21, Javalin, Swing, PostgreSQL |
 | [Menu-Digital](https://github.com/pedrorchagas/Menu-Digital) | Cardápio digital da Feira da Amizade 2025 | Ruby, Sinatra, MySQL, Redis, Docker |
 | [password-api](https://github.com/pedrorchagas/password-api) | API de geração de senhas seguras, com página de documentação | Node.js, Express, Azure |
+
+## 🤝 Impacto na sociedade
+
+- **Professor de robótica** para alunos da rede pública de ensino de Goiás.
+- **À frente da caravana de alunos da UEG** (Codificada).
 
 ## 🛠️ Tecnologias
 
@@ -59,9 +64,5 @@ Gosto de problema de infraestrutura: o sistema que cai todo dia, o dado que se p
 - Bacharelado em Sistemas de Informação, UEG (2025 até hoje)
 - AWS Cloud Quest: Cloud Practitioner (2026)
 - AWS Serverless Demonstrated (2026)
-
-## 📊 Estatísticas
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pedrorchagas?cardType=level&theme=flag-brazil&fontFamily=Doto&showIcons=false&preferLogin=true&Background=000000&Text=11DD0F&Title=11DD0F&Ring=11DD0F)](https://git.io/awesome-stats-card)
 
 <p align="center"><i>Ainda aprendo batendo a cabeça. Só que agora com logs.</i></p>
